@@ -10,7 +10,7 @@ Simply run at the root of your ElasticSearch according to the version you use:
 - 2.4.1 
 
   ```bash
-  $ bin/plugin install https://github.com/jinowolski/elasticsearch-analysis-morfologik/releases/download/2.4.1/elasticsearch-analysis-morfologik-2.4.1.zip
+  $ bin/plugin install https://github.com/antqa/elasticsearch-analysis-morfologik/releases/download/2.4.1/elasticsearch-analysis-morfologik-2.4.1.zip
   ```
 - 2.3.5 
 
