@@ -5,7 +5,7 @@ Originally created by [monterail](https://github.com/monterail/elasticsearch-ana
 
 ## Installation
 
-Simply run at the root of your ElasticSearch according to the version you use (assuming zip file located at / directory):
+Simply run at the root of your ElasticSearch according to the version you use:
 
 - 2.4.1 
 
